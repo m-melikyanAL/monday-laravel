@@ -1,0 +1,1 @@
+{"boardId":7,"userId":1,"columnTitle":"test","value":"mak","changedAt":"2023-11-10T07:50:46.573049Z","id":0}
